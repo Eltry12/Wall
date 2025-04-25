@@ -1,6 +1,6 @@
 body {
     font-family: 'Comic Sans MS', cursive, sans-serif;
-    background-color: #eaf4fb;
+    background-color: #fc623c;
     text-align: center;
     margin: 0;
     padding: 20px;
@@ -35,8 +35,8 @@ button {
 }
 
 .note {
-    background: #fff8dc;
-    border: 1px solid #ccc;
+    background: #ffbe32;
+    border: 1px solid #fff27e;
     border-radius: 10px;
     padding: 15px;
     margin: 10px;
